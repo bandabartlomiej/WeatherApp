@@ -1,5 +1,4 @@
 package com.bwap.weatherapp.WeatherApp.views;
-
 import com.bwap.weatherapp.WeatherApp.controller.WeatherService;
 import com.vaadin.icons.VaadinIcons;
 import com.vaadin.server.ClassResource;
